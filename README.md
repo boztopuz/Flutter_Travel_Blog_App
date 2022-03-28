@@ -1,4 +1,4 @@
-# travel_app_new
+# Flutter_Travel_Blog_App
 
 A new Flutter project.
 
